@@ -1,6 +1,11 @@
-### Hi there 👋
+<h1 align="center"> Hi there! 👋 I'm Jonathan.</h1>
 
 <!--
+
+<h3>About Me</h3>
+[![Jonathan's GitHub stats](https://github-readme-stats.vercel.app/api?username=jonathanwestman&count_private=true&hide=stars,prs,issues,contribs)
+](https://github.com/jonathanwestman)
+
 **jonathanwestman/jonathanwestman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
